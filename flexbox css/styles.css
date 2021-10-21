@@ -1,0 +1,41 @@
+body{
+    background-color: #623CEA;
+    
+
+}
+.contenedor{
+    background-color:#3Dfaff;
+    width: 70%;
+    margin: 10px auto;
+
+}
+
+.menu{
+    display: grid;
+
+    grid-template-areas: " .     .      .      .  ";
+    
+    margin: 10px 100px;
+    padding: 7px auto;
+    
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+
+    
+}
+
+a:link{
+    color: white;
+}
+
+a:hover{
+
+    font-size: 20px;
+}
+
+img{ 
+    width: 15%;
+}
